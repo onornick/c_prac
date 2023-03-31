@@ -1,1 +1,0 @@
-Started C practice today
